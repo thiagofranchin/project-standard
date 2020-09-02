@@ -1,4 +1,4 @@
-import 'style.module.scss'
+import './style.js'
 
 const Button = () => {
   return 'Button'
