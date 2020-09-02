@@ -1,4 +1,4 @@
-const user = "Thiago"
+const user = 'Thiago'
 
 function getUser() {
   return user
